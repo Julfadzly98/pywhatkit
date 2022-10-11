@@ -1,4 +1,3 @@
 # pywhatkit
 
-## Requirement :-
-- pip install pywhatkit
+ pip install pywhatkit
