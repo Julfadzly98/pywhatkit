@@ -1,4 +1,4 @@
 # pywhatkit
 
- pip install pywhatkit
- suda apt install copyq
+-pip install pywhatkit
+-suda apt install copyq
